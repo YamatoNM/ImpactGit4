@@ -1,0 +1,1 @@
+Suma elementelor din data.txt: 20Media numerelor: 4.0

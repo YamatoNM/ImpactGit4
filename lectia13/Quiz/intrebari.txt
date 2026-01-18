@@ -1,0 +1,1399 @@
+Întrebare 1: Care este rezultatul lui 2 + 2?
+3
+4
+5
+6
+2
+
+Întrebare 2: Cât este 10 x 5?
+50
+15
+55
+60
+1
+
+Întrebare 3: Care este pătratul lui 3?
+6
+9
+12
+15
+2
+
+Întrebare 4: Cât este 100 / 10?
+1
+10
+100
+0
+2
+
+Întrebare 5: Care este radicalul din 16?
+2
+4
+8
+16
+2
+
+Întrebare 6: Sumă unghiuri într-un triunghi?
+90°
+180°
+360°
+270°
+2
+
+Întrebare 7: Ce este π aproximativ?
+2.14
+3.14
+4.13
+1.41
+2
+
+Întrebare 8: Cât este 2^3?
+6
+8
+9
+12
+2
+
+Întrebare 9: Care este media lui 2, 4, 6?
+3
+4
+5
+6
+2
+
+Întrebare 10: Cât este 15% din 100?
+10
+15
+20
+25
+2
+
+Întrebare 11: Care este formula ariei cercului?
+πr
+πr²
+2πr
+πd
+2
+
+Întrebare 12: Ce este un număr prim?
+Divizibil cu 1 și el însuși
+Par
+Impar
+Negativ
+1
+
+Întrebare 13: Cât este sinus de 90°?
+0
+1
+0.5
+-1
+2
+
+Întrebare 14: Care este teorema lui Pitagora?
+a+b=c
+a²+b²=c²
+a²-b²=c²
+a=b=c
+2
+
+Întrebare 15: Cât este 7! (factorial)?
+5040
+720
+40320
+120
+1
+
+Întrebare 16: Ce este un vector?
+Număr
+Direcție și mărime
+Scalar
+Matrice
+2
+
+Întrebare 17: Care este derivata lui x²?
+x
+2x
+x²
+1
+2
+
+Întrebare 18: Cât este log10(100)?
+1
+2
+10
+100
+2
+
+Întrebare 19: Ce este medie aritmetică?
+Sumă / nr elemente
+Produs / nr
+Max - min
+Mediana
+1
+
+Întrebare 20: Care este aria unui pătrat cu latura 5?
+10
+20
+25
+30
+3
+
+Întrebare 21: Cine a fost primul rege al României?
+Carol I
+Ferdinand
+Mihai
+Alexandru Ioan Cuza
+1
+
+Întrebare 22: În ce an a fost Marea Unire?
+1917
+1918
+1919
+1920
+2
+
+Întrebare 23: Cine a condus Revoluția din 1989?
+Iliescu
+Ceaușescu
+Brucan
+Nimeni specific
+1
+
+Întrebare 24: Când a început Al Doilea Război Mondial?
+1938
+1939
+1940
+1941
+2
+
+Întrebare 25: Cine a descoperit America?
+Magellan
+Columb
+Vasco da Gama
+Cook
+2
+
+Întrebare 26: Care este capitala vechiului Egipt?
+Cairo
+Memphis
+Teba
+Alexandria
+3
+
+Întrebare 27: Cine a fost Împăratul Roman cunoscut pentru "Degete mici"?
+Nero
+Caligula
+Augustus
+Caesar
+2
+
+Întrebare 28: În ce an a căzut Imperiul Roman de Apus?
+476
+410
+1453
+395
+1
+
+Întrebare 29: Cine a scris "Getica"?
+Herodot
+Iordanes
+Tacit
+Pliniu
+2
+
+Întrebare 30: Care batalie a oprit expansiunea otomană în Europa?
+Lepanto
+Viena 1683
+Mohacs
+Kosovo
+2
+
+Întrebare 31: Cine a fost domnitorul care a unificat Țările Române?
+Mihai Viteazul
+Ștefan cel Mare
+Vlad Țepeș
+Alexandru cel Bun
+1
+
+Întrebare 32: Când a fost independența României?
+1877
+1859
+1918
+1947
+1
+
+Întrebare 33: Cine a fost Hitler?
+Cancelar german
+Președinte francez
+Rege englez
+Prim-ministru italian
+1
+
+Întrebare 34: Care este anul Revoluției Franceze?
+1789
+1776
+1917
+1848
+1
+
+Întrebare 35: Cine a fost Cleopatra?
+Regina Egiptului
+Împărăteasă romană
+Regina Greciei
+Prințesă persană
+1
+
+Întrebare 36: În ce an a fost Bătălia de la Waterloo?
+1812
+1815
+1805
+1820
+2
+
+Întrebare 37: Cine a inventat becul (comercial)?
+Tesla
+Edison
+Swan
+Franklin
+2
+
+Întrebare 38: Care este anul căderii Constantinopolului?
+1453
+1492
+1066
+1204
+1
+
+Întrebare 39: Cine a fost Gandhi?
+Lider indian
+Lider african
+Lider chinez
+Lider rus
+1
+
+Întrebare 40: Când a început Primul Război Mondial?
+1914
+1915
+1916
+1918
+1
+
+Întrebare 41: Care este capitala României?
+București
+Cluj
+Timișoara
+Iași
+1
+
+Întrebare 42: Cel mai înalt munte din România?
+Vârful Omu
+Moldoveanu
+Negoiu
+Parângu Mare
+2
+
+Întrebare 43: Care este cel mai lung fluviu din lume?
+Amazon
+Nil
+Yangtze
+Mississippi
+2
+
+Întrebare 44: Care este cel mai mare ocean?
+Atlantic
+Pacific
+Indian
+Arctic
+2
+
+Întrebare 45: În ce continent este Australia?
+Asia
+Oceania
+Europa
+Africa
+2
+
+Întrebare 46: Care este capitala Franței?
+Lyon
+Paris
+Marseille
+Bordeaux
+2
+
+Întrebare 47: Cel mai mare deșert?
+Antarctica
+Sahara
+Gobi
+Kalahari
+2
+
+Întrebare 48: Care este cel mai populat oraș din lume?
+Tokyo
+Shanghai
+Delhi
+New York
+1
+
+Întrebare 49: Care fluviu traversează Bucureștiul?
+Argeș
+Dâmbovița
+Siret
+Olt
+2
+
+Întrebare 50: Care este cel mai mic continent?
+Europa
+Australia
+Antarctica
+America de Sud
+2
+
+Întrebare 51: Câte continente sunt?
+5
+6
+7
+8
+3
+
+Întrebare 52: Care este capitala Italiei?
+Milano
+Roma
+Veneția
+Napoli
+2
+
+Întrebare 53: Cel mai adânc lac din lume?
+Tanganyika
+Baikal
+Caspică
+Superior
+2
+
+Întrebare 54: Care munte este cel mai înalt din lume?
+K2
+Everest
+Kangchenjunga
+Lhotse
+2
+
+Întrebare 55: Care este cel mai mare lac din România?
+Razelm
+Techirghiol
+Bicaz
+Vidraru
+1
+
+Întrebare 56: În ce ocean este Insula Paștelui?
+Atlantic
+Pacific
+Indian
+Arctic
+2
+
+Întrebare 57: Care este capitala Japoniei?
+Osaka
+Tokyo
+Kyoto
+Hiroshima
+2
+
+Întrebare 58: Cel mai lung lanț muntos?
+Cordilieri
+Andes
+Himalaya
+Alpi
+2
+
+Întrebare 59: Care țară are cele mai multe fusuri orare?
+SUA
+Rusia
+Franța
+China
+3
+
+Întrebare 60: Care este cel mai mare stat din SUA ca suprafață?
+Texas
+California
+Alaska
+Montana
+3
+
+Întrebare 61: Care este organul care pompează sângele?
+Creier
+Inimă
+Plămâni
+Ficat
+2
+
+Întrebare 62: Câte cromozomi are omul?
+46
+48
+44
+23
+1
+
+Întrebare 63: Ce este fotosinteza?
+Respirație
+Producere glucoză din lumină
+Digestie
+Circulație
+2
+
+Întrebare 64: Care este cel mai mare animal?
+Elefant
+Balena albastră
+Girafă
+Rechin
+2
+
+Întrebare 65: Ce produce pancreasul?
+Bila
+Insulină
+Salivă
+Suc gastric
+2
+
+Întrebare 66: Care este formula ADN?
+DNA
+ARN
+Proteine
+Glucide
+1
+
+Întrebare 67: Câte oase are corpul uman adult?
+206
+208
+300
+180
+1
+
+Întrebare 68: Ce este mitocondria?
+Centrală energetică a celulei
+Nucleu
+Ribozom
+Lizosom
+1
+
+Întrebare 69: Care plante sunt carnivore?
+Cactus
+Venus flytrap
+Palmier
+Stejar
+2
+
+Întrebare 70: Ce este evoluția?
+Teoria lui Darwin
+Creare divină
+Ambele
+Niciuna
+1
+
+Întrebare 71: Care este cel mai rapid animal terestru?
+Leu
+Ghepard
+Cal
+Antilopă
+2
+
+Întrebare 72: Câte inimi are caracatița?
+1
+2
+3
+0
+3
+
+Întrebare 73: Ce este hemoglobină?
+Proteina din sânge
+Enzimă
+Hormon
+Vitamină
+1
+
+Întrebare 74: Care este cel mai mare organ al corpului?
+Piele
+Ficat
+Creier
+Inimă
+1
+
+Întrebare 75: Ce produce glandele suprarenale?
+Adrenalină
+Tiroidă
+Insulină
+Estrogen
+1
+
+Întrebare 76: Care este lanțul trofic de bază?
+Producători -> consumatori
+Invers
+Doar animale
+Doar plante
+1
+
+Întrebare 77: Ce este vaccinul?
+Medicament
+Prevenire boală
+Tratament
+Vitamină
+2
+
+Întrebare 78: Câte dinți are adultul?
+28
+32
+30
+36
+2
+
+Întrebare 79: Ce este celula stem?
+Celulă specializată
+Celulă nediferențiată
+Virus
+Bacterie
+2
+
+Întrebare 80: Care animal schimbă culoarea?
+Cameleon
+Broască
+Șarpe
+Păianjen
+1
+
+Întrebare 81: Ce este viteza luminii?
+300000 km/s
+150000 km/s
+100000 km/s
+500000 km/s
+1
+
+Întrebare 82: Legea lui Newton 1?
+Inerție
+F=ma
+Acțiune-reacțiune
+Gravitație
+1
+
+Întrebare 83: Ce este energia?
+Forță
+Capacitate de muncă
+Masă
+Viteză
+2
+
+Întrebare 84: Unitatea de forță?
+Watt
+Newton
+Joule
+Ampere
+2
+
+Întrebare 85: Ce este curentul electric?
+Flux electroni
+Flux protoni
+Flux neutroni
+Static
+1
+
+Întrebare 86: Formula energiei cinetice?
+mv
+1/2 mv²
+mgh
+F d
+2
+
+Întrebare 87: Ce este unda?
+Particulă
+Oscilație
+Ambele
+Niciuna
+3
+
+Întrebare 88: Temperatura de fierbere apă?
+0°C
+100°C
+212°F
+373K
+2
+
+Întrebare 89: Ce este gravitația?
+Forță magnetică
+Atracție mase
+Electrică
+Nucleară
+2
+
+Întrebare 90: Unitatea de energie?
+Newton
+Joule
+Watt
+Volt
+2
+
+Întrebare 91: Ce este efectul fotoelectric?
+Einstein
+Planck
+Bohr
+Newton
+1
+
+Întrebare 92: Câte legi are termodinamica?
+2
+3
+4
+5
+2
+
+Întrebare 93: Ce este frecvența?
+Amplitudine
+Perioadă invers
+Lungime undă
+Viteză
+2
+
+Întrebare 94: Formula lui Ohm?
+V=IR
+P=IV
+E=mc²
+F=ma
+1
+
+Întrebare 95: Ce este lentila convergentă?
+Împrăștie
+Concentrează
+Reflectă
+Absorb
+2
+
+Întrebare 96: Ce este radioactivitatea?
+Decăderea nucleului
+Fuziune
+Fisiune
+Ambele
+1
+
+Întrebare 97: Accelerația gravitațională pe Pământ?
+9.8 m/s²
+10 m/s²
+8 m/s²
+12 m/s²
+1
+
+Întrebare 98: Ce este superconductivitatea?
+Rezistență zero
+Conductivitate maximă
+Izolație
+Magnetic
+1
+
+Întrebare 99: Unitatea de presiune?
+Pascal
+Bar
+Atm
+Toate
+4
+
+Întrebare 100: Ce este relativitatea?
+Teoria lui Einstein
+Newton
+Galileo
+Kepler
+1
+
+Întrebare 101: Formula apei?
+H2O
+CO2
+O2
+H2
+1
+
+Întrebare 102: Ce este pH-ul neutru?
+0
+7
+14
+1
+2
+
+Întrebare 103: Cel mai ușor element?
+Hidrogen
+Helium
+Litiu
+Oxigen
+1
+
+Întrebare 104: Ce este tabela periodică?
+Elemente ordonate
+Compusi
+Molecule
+Izotopi
+1
+
+Întrebare 105: Formula CO2?
+Monoxid de carbon
+Dioxid de carbon
+Oxid de carbon
+Gaz carbonic
+2
+
+Întrebare 106: Ce este reacția de oxidare?
+Pierdere electroni
+Câștig electroni
+Neutru
+Protoni
+1
+
+Întrebare 107: Acid clorhidric formula?
+HCl
+NaCl
+H2SO4
+HNO3
+1
+
+Întrebare 108: Ce este polimer?
+Monomer
+Lanț lung molecule
+Element
+Metal
+2
+
+Întrebare 109: Număr atomic oxigen?
+6
+8
+7
+16
+2
+
+Întrebare 110: Ce este catalizator?
+Accelerează reacție
+Încetinește
+Oprește
+Consumă
+1
+
+Întrebare 111: Formula glucozei?
+C6H12O6
+C12H22O11
+CH4
+C2H5OH
+1
+
+Întrebare 112: Ce este sare?
+Acid + bază
+Acid + metal
+Bază + apă
+Toate
+1
+
+Întrebare 113: Element nobil?
+Helium
+Hidrogen
+Oxigen
+Azot
+1
+
+Întrebare 114: Ce este alchimie?
+Chimie veche
+Fizică
+Biologie
+Matematică
+1
+
+Întrebare 115: Formula etanolului?
+CH3OH
+C2H5OH
+C3H8
+CH4
+2
+
+Întrebare 116: Ce este izotop?
+Același element, mase diferite
+Elemente diferite
+Compusi
+Ioni
+1
+
+Întrebare 117: Acid sulfuric formula?
+H2SO4
+H2SO3
+HCl
+H3PO4
+1
+
+Întrebare 118: Ce este combustia?
+Reacție cu oxigen
+Reducere
+Dezintegrare
+Fuziune
+1
+
+Întrebare 119: Număr avogadro aproximativ?
+6.02 x 10^23
+6 x 10^20
+10^23
+6.02 x 10^22
+1
+
+Întrebare 120: Ce este soluție?
+Amestec omogen
+Heterogen
+Suspension
+Coloid
+1
+
+Întrebare 121: Cine a scris "Amintiri din copilărie"?
+Creangă
+Eminescu
+Caragiale
+Sadoveanu
+1
+
+Întrebare 122: Personaj principal în "Baltagul"?
+Vitoria Lipan
+Nechifor Lipan
+Gheorghe
+Ilie
+1
+
+Întrebare 123: Cine este "Luceafărul" poeziei românești?
+Eminescu
+Bacovia
+Arghezi
+Blaga
+1
+
+Întrebare 124: Opera "Ion" de?
+Rebreanu
+Preda
+Slavici
+Camilar
+1
+
+Întrebare 125: Cine a scris "Plumb"?
+Bacovia
+Eminescu
+Coșbuc
+Goga
+1
+
+Întrebare 126: Teatru: "O scrisoare pierdută" de?
+Caragiale
+Iorga
+Creangă
+Delavrancea
+1
+
+Întrebare 127: Cine a scris "Pădurea spânzuraților"?
+Rebreanu
+Sadoveanu
+Agârbiceanu
+Horton
+1
+
+Întrebare 128: Poet păstoresc?
+Coșbuc
+Eminescu
+Topîrceanu
+Minulescu
+1
+
+Întrebare 129: Cine a scris "Ultima noapte de dragoste"?
+Camil Petrescu
+Hortensia
+Lovinescu
+Călinescu
+1
+
+Întrebare 130: Baladă populară celebră?
+Miorița
+Monastirea Argeșului
+Toma Alimoș
+Toate
+4
+
+Întrebare 131: Cine este autor "Moromeții"?
+Preda
+Rebreanu
+Sadoveanu
+Bassarab
+1
+
+Întrebare 132: Poem "Floare albastră" de?
+Eminescu
+Blaga
+Arghezi
+Voiculescu
+1
+
+Întrebare 133: Cine a scris "Accidentul"?
+Mihail Sebastian
+Camil Petrescu
+Gib Mihăescu
+Horton
+1
+
+Întrebare 134: Nuvelă "Moara cu noroc" de?
+Slavici
+Creangă
+Caragiale
+Rebreanu
+1
+
+Întrebare 135: Cine este "poetul nepereche"?
+Eminescu
+Bacovia
+Ion Barbu
+Nichita
+1
+
+Întrebare 136: Opera "Enigma Otiliei" de?
+Călinescu
+Preda
+Bassarabescu
+Galaction
+1
+
+Întrebare 137: Cine a scris "Riga Crypto"?
+Blaga
+Arghezi
+Ion Barbu
+Voiculescu
+3
+
+Întrebare 138: Poveste "Capra cu trei iezi" de?
+Creangă
+Petrescu
+Ion Creangă
+Populară
+3
+
+Întrebare 139: Cine a scris "Patul lui Procust"?
+Camil Petrescu
+Sebastian
+Lovinescu
+Calinescu
+1
+
+Întrebare 140: Poet simbolist?
+Bacovia
+Eminescu
+Coșbuc
+Goga
+1
+
+Întrebare 141: How do you say "bună" in English?
+Hello
+Good
+Hi
+Bye
+3
+
+Întrebare 142: What is "car" in Romanian?
+Mașină
+Casă
+Carte
+Câine
+1
+
+Întrebare 143: Past tense of "go"?
+Goed
+Went
+Gone
+Going
+2
+
+Întrebare 144: Plural of "child"?
+Childs
+Children
+Childes
+Child
+2
+
+Întrebare 145: What is the opposite of "big"?
+Small
+Large
+Tall
+Short
+1
+
+Întrebare 146: How many letters in alphabet?
+24
+26
+28
+25
+2
+
+Întrebare 147: Translate "mulțumesc"?
+Please
+Thank you
+Sorry
+Yes
+2
+
+Întrebare 148: What is "dog" in Romanian?
+Câine
+Pisică
+Cal
+Pasăre
+1
+
+Întrebare 149: Future of "will eat"?
+Eat
+Ate
+Will eat
+Eating
+3
+
+Întrebare 150: Synonym of "happy"?
+Sad
+Joyful
+Angry
+Tired
+2
+
+Întrebare 151: What is the capital of UK?
+New York
+London
+Paris
+Berlin
+2
+
+Întrebare 152: Pronoun for "I"?
+Me
+My
+Mine
+Myself
+1
+
+Întrebare 153: What is "water"?
+Apă
+Foc
+Aer
+Pământ
+1
+
+Întrebare 154: Countable: apple?
+Yes
+No
+Sometimes
+Always
+1
+
+Întrebare 155: Verb "to be" past?
+Was/Were
+Is/Am/Are
+Be
+Been
+1
+
+Întrebare 156: What is "house" in Romanian?
+Casă
+Mașină
+Școală
+Grădină
+1
+
+Întrebare 157: Adjective for "beauty"?
+Beauty
+Beautiful
+Beautify
+Beauteous
+2
+
+Întrebare 158: Question tag for "It is"?
+Isn't it?
+Is it?
+Does it?
+Do it?
+1
+
+Întrebare 159: What is "red" in Romanian?
+Roșu
+Albastru
+Verde
+Galben
+1
+
+Întrebare 160: Modal for possibility?
+Can
+Must
+Should
+May
+4
+
+Întrebare 161: Ce este CPU?
+Procesor
+Memorie
+Hard disk
+Monitor
+1
+
+Întrebare 162: Ce înseamnă RAM?
+Random Access Memory
+Read Only Memory
+Run Access Memory
+Rapid
+1
+
+Întrebare 163: Extensie imagine?
+.jpg
+.doc
+.exe
+.pdf
+1
+
+Întrebare 164: Ce este un virus informatic?
+Program rău intenționat
+Hardware
+Software bun
+Rețea
+1
+
+Întrebare 165: Binary: 1 + 1 = ?
+0
+10
+11
+1
+2
+
+Întrebare 166: Ce este HTML?
+Limbaj markup
+Programare
+Bază date
+OS
+1
+
+Întrebare 167: Cine a creat Windows?
+Apple
+Microsoft
+Google
+Linux
+2
+
+Întrebare 168: Ce este IP?
+Adresă rețea
+Protocol
+Port
+Domain
+1
+
+Întrebare 169: Unitate de stocare mare?
+Byte
+KB
+GB
+Bit
+3
+
+Întrebare 170: Ce este algoritm?
+Secvență pași
+Date
+Hardware
+Eroare
+1
+
+Întrebare 171: Limbaj programare: Python pentru?
+Web
+AI
+Jocuri
+Toate
+4
+
+Întrebare 172: Ce este firewall?
+Protecție rețea
+Virus
+Browser
+Email
+1
+
+Întrebare 173: Extensie executabil Windows?
+.exe
+.app
+.dmg
+.apk
+1
+
+Întrebare 174: Ce este cloud computing?
+Stocare online
+Local
+Hardware
+Offline
+1
+
+Întrebare 175: Binary pentru 2?
+10
+01
+11
+00
+1
+
+Întrebare 176: Ce este SQL?
+Bază de date
+Web design
+Grafică
+Securitate
+1
+
+Întrebare 177: Fondator Facebook?
+Zuckerberg
+Gates
+Jobs
+Musk
+1
+
+Întrebare 178: Ce este bit?
+Unitate minimă
+Byte
+KB
+MB
+1
+
+Întrebare 179: Limbaj pentru Android nativ?
+Java/Kotlin
+Swift
+C#
+Python
+1
+
+Întrebare 180: Ce este URL?
+Adresă web
+Email
+File
+Imagine
+1
+
+Întrebare 181: Câte planete în sistemul solar?
+8
+9
+7
+10
+1
+
+Întrebare 182: Cel mai rapid animal?
+Șoim peregrine
+Ghepard
+Leopard
+Antilopă
+1
+
+Întrebare 183: Ce este ADN-ul?
+Acid dezoxiribonucleic
+Proteina
+Glucid
+Lipid
+1
+
+Întrebare 184: Cine a propus teoria relativității?
+Newton
+Einstein
+Galileo
+Hawking
+2
+
+Întrebare 185: Cel mai mare planetă?
+Saturn
+Jupiter
+Neptun
+Uranus
+2
+
+Întrebare 186: Ce este fotosinteza produs?
+Oxigen
+CO2
+Azot
+Hidrogen
+1
+
+Întrebare 187: Câte zile într-un an bisect?
+365
+366
+364
+367
+2
+
+Întrebare 188: Ce este eclipsa?
+Aliniere corpuri cerești
+Cutremur
+Vulcan
+Tsunami
+1
+
+Întrebare 189: Element esențial viață?
+Carbon
+Aur
+Argint
+Platină
+1
+
+Întrebare 190: Ce este vaccin?
+Imunizare
+Tratament
+Diagnostic
+Operație
+1
+
+Întrebare 191: Cel mai comun gaz în atmosferă?
+Oxigen
+Azot
+CO2
+Hidrogen
+2
+
+Întrebare 192: Cine a pictat Mona Lisa?
+Picasso
+Da Vinci
+Van Gogh
+Michelangelo
+2
+
+Întrebare 193: Ce este democrația?
+Guvern popor
+Monarhie
+Dictatură
+Anarhie
+1
+
+Întrebare 194: Cel mai mare mamifer terestru?
+Elefant
+Girafă
+Rinocer
+Hipopotam
+1
+
+Întrebare 195: Ce este internetul?
+Rețea globală
+Calculator
+Telefon
+TV
+1
+
+Întrebare 196: Câte culori în curcubeu?
+6
+7
+8
+5
+2
+
+Întrebare 197: Ce este reciclar?
+Reutilizare
+Aruncare
+Ardere
+Îngropare
+1
+
+Întrebare 198: Cel mai vechi instrument muzical?
+Flaut
+Chitară
+Pian
+Tobe
+1
+
+Întrebare 199: Ce este AI?
+Inteligență artificială
+Augmented Intelligence
+Automated
+All
+1
+
+Întrebare 200: Cine a zburat primul?
+Frații Wright
+Santos Dumont
+Lilienthal
+Montgolfier
+1
